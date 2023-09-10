@@ -1,0 +1,114 @@
+
+  .invert {
+    filter: invert(100%);
+    font-weight: bold;
+    padding: 110px;
+    white-space: nowrap;
+    padding-top: 150px;
+    font-family: Big Shoulders Display;
+    font-size: 108px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 0px;
+    text-align: left;
+
+    
+  }
+  #inver2{
+    filter: invert(100%);
+    font-size: 60PX;
+    font-family: Big Shoulders Display;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+    padding-left: 100px;
+    white-space: nowrap;
+
+  }
+  #image-div {
+    width: 500px; 
+    height: 700px; 
+    background-image: url('asset/image-hero.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+.secound_text{
+    padding-left:330px;
+    padding-top: 75px;
+}
+
+.third_text1 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Space Mono', monospace;
+    padding: 100px;
+    white-space: nowrap;
+    font-family: Outfit;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+
+  }
+  #our_location_box{
+   padding: ;
+    margin: 10px;
+  }
+  #our_location{
+    color: white;
+    white-space: nowrap;
+    font-family: Big Shoulders Display;
+    font-family: Big Shoulders Display;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 24px;
+    letter-spacing: 3.6363637447357178px;
+    text-align: right;
+    margin-left: 100px;
+    width: 150px;
+    background-color: black;
+  }
+  
+
+  #your_day{
+    //styleName: Heading (M);
+    font-family: Big Shoulders Display;
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: left;
+
+  }
+  #your_day_2{
+    font-family: Outfit;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+
+  }
+  #text_to_write{
+    padding-top: 100px;
+    
+  }
+  #text_come{
+    font-family: Big Shoulders Display;
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+  }
+  #text_come2{
+    font-family: Outfit;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+
+
+  }
